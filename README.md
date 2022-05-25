@@ -2,19 +2,8 @@
 
 Objetivo do desenvolvimento do software é otimizar o processo de coleta de informações tecnicas, referente a 
 máquina de algum colaborador que tenha solicitado o upgrade de memoria RAM ou SSD, esses dados coletados
-serão utilizados como referencia para comprar as peças corretas.
+serão utilizados como referencia para comprar as peças.
 
-## Problema inicial 
-
-Está ocorrendo muitos casos onde a peça adquerida está incorreta e precisa passar para um proceso de troca.
-
-## Como é solucionado
-
-Capturando dados da máquina para fazer todas as validações necessarias, assim impedir que seja adquirida uma peça incorreta.
-
-## Como o software resolve o problema
-
-O software faz uma varredura na máquina pegando todas informações importantes para que as validações sejam realizadas
 
 ### DADOS CAPTURADOS:
 
